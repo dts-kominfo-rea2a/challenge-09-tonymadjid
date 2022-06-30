@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    font-size: 25px;
+    line-height: 0.7em;
+    margin: -3px
+}
+
+.dot {
+    line-height: 0.0em;
+    margin: -20px;
+    color: #FF8080;
+}
